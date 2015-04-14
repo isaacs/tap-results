@@ -1,2 +1,3 @@
-This is a module for keeping track of tap result objects, counting them
-up, etc.
+Deprecated.
+
+Please use [node-tap](https://github.com/isaacs/node-tap) instead.
